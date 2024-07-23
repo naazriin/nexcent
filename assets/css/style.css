@@ -1,0 +1,148 @@
+.navbar-brand img {
+    width: 154px;
+    height: 24px;
+}
+
+.nav {
+    height: 84px;
+    background-color: #F5F7FA;
+
+}
+
+.nav-link{
+    font-family: 'Poppins', 'sans-serif';
+}
+
+.nav-item{
+    margin-right: 20px;
+}
+
+.register-btn, .login-btn{
+    width: 91px;
+    height: 40px;
+
+}
+
+.register-btn{
+    background-color: #4CAF4F !important;
+
+}
+
+.login-btn{
+    color: #4CAF4F !important;
+}
+
+.slider-section{
+    background-color: #F5F7FA;
+}
+
+.carousel-title{
+    color: #4D4D4D;
+font-size: 64px;
+line-height: 76px;
+    
+}
+
+.carousel-title-diff{
+    color: #4CAF4F;
+}
+
+.carouse-item-text{
+    color: #717171;
+    ;
+}
+
+.btn-carousel{
+    background-color: #4CAF4F !important;
+}
+
+.carousel-item-img{
+    width: 75%;
+    margin: auto;
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target]{
+width: 10px !important;
+height: 10px !important;
+border-radius: 50% !important;
+background-color: #4CAF4F !important;
+}
+
+.clients-header h1{
+    font-size: 36px;
+    color: #4D4D4D !important;
+
+    
+}
+
+.clients-header p{
+    line-height: 16px;
+    color: #717171;
+}
+
+.clients-image{
+    width: 48px;
+    height: 48px;
+}
+
+
+.client-bottom .container{
+    width: 542px;
+    height: 88px;
+    margin-bottom: 6px;
+    text-align: center;
+}
+
+.client-bottom .container h1{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+}
+
+
+.carousel-tesla-item .carousel-item-content-text h3{
+    color: #4CAF4F;
+}
+
+
+.carousel-item-content-logo ul{
+    list-style: none;
+    padding: 0;
+}
+    
+
+.carousel-item-content-logo ul li{
+ display: inline-block;
+ margin-right: 41px;
+}
+
+
+.carousel-item-content-logo ul li:last-child{
+    margin-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-item {
+    width: 100px;
+}
+
+
+#carouselExample2{
+    background-color: #F5F7FA;
+
+}
+
